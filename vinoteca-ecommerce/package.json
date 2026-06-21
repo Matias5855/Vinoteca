@@ -1,7 +1,7 @@
 {
   "name": "vinoteca-ecommerce",
   "version": "1.0.0",
-  "homepage": "https://<TU-USUARIO>.github.io/<NOMBRE-DEL-REPO>",
+  "homepage": "https://github.com/Matias5855/Vinoteca.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
